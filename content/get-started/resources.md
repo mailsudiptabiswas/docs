@@ -46,6 +46,7 @@ If books are your preferred learning style, check out these written by the [Dock
 * [Docker in Action 2nd Edition](https://www.manning.com/books/docker-in-action-second-edition) Jeff Nickoloff, Oct 2019
 * [The Kubernetes Book](https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/1521823634/ref=sr_1_3?ie=UTF8&qid=1509660871&sr=8-3&keywords=nigel+poulton), Nigel Poulton, Nov 2018
 * [Docker Deep Dive](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF), Nigel Poulton, 2024 Edition
+* [Mastering Docker from Scratch to Scale] (https://www.amazon.in/Mastering-Docker-Scratch-Scale-Hands-ebook/dp/B0F8G2GLQV), Sudipta Biswas, 2025
 * \[Portuguese\] [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) (2017) by Rafael Gomes
 * \[Spanish\] [Érase una vez Docker](https://leanpub.com/erase-una-vez-docker), Manuel Morejón, March 2023
 * \[Spanish\] [Érase una vez Kubernetes](https://leanpub.com/erase-una-vez-kubernetes), Manuel Morejón, Jan 2022
